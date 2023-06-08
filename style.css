@@ -65,8 +65,8 @@ button{
     border-style: none;
     color: rgb(156, 37, 156);
     box-shadow: 5px 5px 5px rgb(85, 19, 85) ;
-    padding-top:1%;
-    
+    padding-top:0.5%;
+    margin:0% auto; 
 }
 button:hover{
     background-color: #e980e7;
@@ -89,10 +89,7 @@ button:hover{
          transform: translate(-50%, -50%);
         margin-top: 5em;
     }
-    button{
-       margin-left: 4em;
-       margin-right: 4em !important;
-    }
+  
     #socialBox{
         
         position: absolute;

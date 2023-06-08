@@ -65,7 +65,7 @@ button{
     border-style: none;
     color: rgb(156, 37, 156);
     box-shadow: 5px 5px 5px rgb(85, 19, 85) ;
-    padding-top:2%;
+    padding-top:1%;
     
 }
 button:hover{
@@ -90,8 +90,8 @@ button:hover{
         margin-top: 5em;
     }
     button{
-       margin-left: 3em;
-       margin-right: 3em !important;
+       margin-left: 4em;
+       margin-right: 4em !important;
     }
     #socialBox{
         
@@ -113,7 +113,6 @@ button:hover{
     button{
         display: flex;
         justify-content: center;
-        transform:translate(-50%, -50%)
     }
 }
 @media only screen and (max-width:643px){
